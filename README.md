@@ -48,3 +48,12 @@
 
 ui设计的话，主要有个定时器的槽函数进行更新界面里视频或是图片的更新，检测结果的话，是调用opencv直接另开一个窗口就行。
 
+
+
+## 参考文章
+https://github.com/TangTao-PKU/YOLOv8-ONNXRuntime-CPP/blob/main/inference.h
+
+
+https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp/tree/main
+
+建议参考第二个文章的内容，他已经更新了针对不同任务的检测，可以下载下来进行实现。
