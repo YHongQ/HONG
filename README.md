@@ -56,4 +56,6 @@ https://github.com/TangTao-PKU/YOLOv8-ONNXRuntime-CPP/blob/main/inference.h
 
 https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp/tree/main
 
+https://netron.app/
+
 建议参考第二个文章的内容，他已经更新了针对不同任务的检测，可以下载下来进行实现。
